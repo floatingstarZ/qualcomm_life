@@ -1,0 +1,2 @@
+# qualcomm_life
+
